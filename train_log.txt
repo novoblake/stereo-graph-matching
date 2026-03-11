@@ -1,0 +1,59 @@
+
+  warnings.warn(msg)
+🧩 Epoch 01: Train L1 = 18.0097
+💾 Saved best model checkpoint!
+🧩 Epoch 02: Train L1 = 9.0055
+💾 Saved best model checkpoint!
+🧩 Epoch 03: Train L1 = 7.3219
+💾 Saved best model checkpoint!
+🧩 Epoch 04: Train L1 = 6.5483
+💾 Saved best model checkpoint!
+🧩 Epoch 05: Train L1 = 6.2503
+💾 Saved best model checkpoint!
+🖼️ Saved visualization for epoch 5
+🧩 Epoch 06: Train L1 = 5.9767
+💾 Saved best model checkpoint!
+🧩 Epoch 07: Train L1 = 5.8362
+💾 Saved best model checkpoint!
+🧩 Epoch 08: Train L1 = 5.5351
+💾 Saved best model checkpoint!
+🧩 Epoch 09: Train L1 = 5.3022
+💾 Saved best model checkpoint!
+🧩 Epoch 10: Train L1 = 5.1287
+💾 Saved best model checkpoint!
+🖼️ Saved visualization for epoch 10
+🧩 Epoch 11: Train L1 = 4.9775
+💾 Saved best model checkpoint!
+🧩 Epoch 12: Train L1 = 4.8179
+💾 Saved best model checkpoint!
+🧩 Epoch 13: Train L1 = 4.5718
+💾 Saved best model checkpoint!
+🧩 Epoch 14: Train L1 = 4.5547
+💾 Saved best model checkpoint!
+🧩 Epoch 15: Train L1 = 4.4250
+💾 Saved best model checkpoint!
+🖼️ Saved visualization for epoch 15
+🧩 Epoch 16: Train L1 = 4.2248
+💾 Saved best model checkpoint!
+🧩 Epoch 17: Train L1 = 4.4282
+🧩 Epoch 18: Train L1 = 4.2900
+🧩 Epoch 19: Train L1 = 4.2427
+🧩 Epoch 20: Train L1 = 3.9859
+💾 Saved best model checkpoint!
+🖼️ Saved visualization for epoch 20
+🧩 Epoch 21: Train L1 = 4.0043
+🧩 Epoch 22: Train L1 = 3.9772
+💾 Saved best model checkpoint!
+🧩 Epoch 23: Train L1 = 3.7397
+💾 Saved best model checkpoint!
+🧩 Epoch 24: Train L1 = 3.8274
+🧩 Epoch 25: Train L1 = 3.6877
+💾 Saved best model checkpoint!
+🖼️ Saved visualization for epoch 25
+🧩 Epoch 26: Train L1 = 3.4160
+💾 Saved best model checkpoint!
+🧩 Epoch 27: Train L1 = 3.5235
+🧩 Epoch 28: Train L1 = 3.5553
+🧩 Epoch 29: Train L1 = 3.6845
+🧩 Epoch 30: Train L1 = 3.5790
+🖼️ Saved visualization for epoch 30
